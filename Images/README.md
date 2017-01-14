@@ -1,2 +1,2 @@
 ### Images
-This folder contains uploaded images for embedding in the wiki. YE BOI!
+This folder contains images uploaded for the purpose of embedding in the wiki. YE BOI!
